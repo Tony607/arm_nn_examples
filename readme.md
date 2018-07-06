@@ -13,4 +13,4 @@ It contains a Python Jupyter notebook to generate  `#define IMG_DATA {...}` data
 
 For more information, please read the tutorial.
 
-Please noted that the microcontroller project is built with Keil MDK-ARM run on Windows, if you don't have the IDE installed yet, you can find a copy and instruction to install [here](TODO).
+Please noted that the microcontroller project is built with Keil MDK-ARM run on Windows, if you don't have the IDE installed yet, you can find a copy and instruction to install [here](https://pan.baidu.com/s/1EYw5TofPFaihKQG1vCu0kQ).
